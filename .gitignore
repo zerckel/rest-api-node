@@ -2,3 +2,10 @@
 .dist/
 node_modules
 .vscode/
+/.idea/.gitignore
+/.idea/discord.xml
+/prisma/migrations/20210929083531_users/migration.sql
+/.idea/modules.xml
+/package-lock.json
+/.idea/rest-api.iml
+/.idea/vcs.xml
